@@ -1,7 +1,7 @@
 ### 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐔𝐬𝐞𝐫𝐁𝐨𝐭 𝐖𝐢𝐭𝐡 𝐕𝐂 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐚𝐬𝐞𝐝 𝐎𝐧 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 ✨ ...
 
 
-<p align="center"><a href="https://t.me/adityahalder"><img src="https://telegra.ph/file/80ddddfcd915d468bdb1a.png"></a></p>
+<p align="center"><a href="https://t.me/kenapatagdar"><img src="https://telegra.ph/file/80ddddfcd915d468bdb1a.png"></a></p>
 
 
 
