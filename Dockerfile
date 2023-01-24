@@ -9,4 +9,4 @@ RUN npm i -g npm
 COPY . /darmi/
 WORKDIR /darmi/
 RUN pip3 install -U -r Installer
-CMD python3 -m AdityaHalder
+CMD python3 -m Darmiubot

@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/80ddddfcd915d468bdb1a.png",
     "description": "An Advanced Premium Music & user Bot For Telegram ID.",
     "keywords": ["music", "voice chat", "userbot"],
-    "repository": "https://github.com/GeniusBoi/Genius-Userbot",
+    "repository": "https://github.com/iskandar777-dar/DarmiUserbot",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -35,12 +35,11 @@
             "required": true
         }
     },
-    "buildpacks": [
-    {
-      "url": "heroku/python"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-    }
-  ]
+    "buildpacks": [{
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ]
 }
