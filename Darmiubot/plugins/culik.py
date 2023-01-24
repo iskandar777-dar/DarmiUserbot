@@ -18,11 +18,11 @@ async def inviteall(client: Client, message: Message):
     async for member in client.iter_chat_members(chat.id):
         user= member.user
         kal = ["online", "offline" , "baru-baru ini", "dalam_minggu"]
-        if user.status in kal:
+        if user.status in kaal:
             try:
-            await client.add_chat_members(tgchat.id, user.id)
+                await client.add_chat_members(tgchat.id, user.id)
             except Exception as e:
-            mg = await client.send_message("me", f"error-   {e}")
+                mg = await client.send_message("me", f"error-   {e}")
             await asyncio.sleep(0.3)
             await mg.delete()
 
