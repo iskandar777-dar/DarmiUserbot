@@ -8,7 +8,7 @@ logging.basicConfig(
     datefmt="%d-%b-%y %H:%M:%S",
     handlers=[
         RotatingFileHandler(
-            "kaaluserbot.txt", maxBytes=5000000, backupCount=10
+            "darmiuserbot.txt", maxBytes=5000000, backupCount=10
         ),
         logging.StreamHandler(),
     ],

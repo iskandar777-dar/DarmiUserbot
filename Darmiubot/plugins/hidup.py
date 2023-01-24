@@ -7,7 +7,7 @@ from Darmiubot.modules.helpers.filters import command
 from Darmiubot.utilities.misc import SUDOERS
 
 
-@Client.on_message(command(["Hidup"]) & SUDOERS)
+@Client.on_message(command(["hidup"]) & SUDOERS)
 async def mother_chod(client: Client, message: Message):
     await edit_or_reply(message, "**Saya Hidup Tuan ...**")
 

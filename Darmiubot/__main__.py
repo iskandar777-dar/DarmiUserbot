@@ -93,7 +93,7 @@ async def initiate_bot():
             console.print(f"\n[red] Menghentikan Bot")
             return
         try:
-            await client.join_chat("medsuportt")
+            await client.join_chat("medsupportt")
             await client.join_chat("medchannell")
         except:
             pass
